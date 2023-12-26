@@ -36,7 +36,7 @@
 [![Visual Studio](https://img.shields.io/badge/VS-%235C2D91?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=black)](https://visualstudio.microsoft.com/)
 
 
-### :mailbox: Get in touch!
+## :mailbox: Get in touch!
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=black)](mailto:jve.formacio@gmail.com)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=black)](https://www.linkedin.com/in/javier-d-a2241847/)
 
