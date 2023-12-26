@@ -38,7 +38,10 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=black)](https://www.linkedin.com/in/javier-d-a2241847/)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jve386&show_icons=true&theme=dark)
+<p>
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=Jve386&show_icons=true&rank_icon=github&custom_title=Jve386&nbsp;GitHub&nbsp;Stats&theme=transparent" /> 
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jve386&layout=donut&theme=transparent" />
+</p>
 
 
 <!--
