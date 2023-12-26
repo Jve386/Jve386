@@ -1,12 +1,13 @@
-### Hi there 👋 I'm Javi!
-🏠 Hailing from Cantabria, currently based in Barcelona.
+# Hi there 👋 I'm Javi!
+
+### 🏠 Hailing from Cantabria, currently based in Barcelona.
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=black)](mailto:jve.formacio@gmail.com)
 [![Github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white&labelColor=black)](https://github.com/Jve386/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=black)](https://www.linkedin.com/in/javier-d-a2241847/)
 
 
-##### 🌱  Embarked on various ventures in the tech world:
+### 🌱  Embarked on various ventures in the tech world:
 - Founded and managed an online tech info site, organizing nationwide events.
 - Developed sponsor relationships, leading to organizing entertainment fairs.
 - Pursuing a degree in multiplatform app development.
@@ -14,7 +15,7 @@
 - Engaged in the study of Computer Engineering.
 
 
-##### 🔭 Technologies:
+### 🔭 Technologies:
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=black)](https://kotlinlang.org/)
 [![Java](https://img.shields.io/badge/Java-FF160B?style=for-the-badge&logo=java&logoColor=white&labelColor=black)](https://www.java.com/)
