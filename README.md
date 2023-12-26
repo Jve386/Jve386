@@ -1,16 +1,19 @@
 # Hi there 👋 I'm Javi!
 
-## 🏠 Hailing from Cantabria, currently based in Barcelona.
+🏠 Hailing from Cantabria, currently based in Barcelona.
 
-### 🌱  Embarked on various ventures in the tech world:
-- Founded and managed an online tech info site, organizing nationwide events.
-- Developed sponsor relationships, leading to organizing entertainment fairs.
-- Pursuing a degree in multiplatform app development.
-- Self-taught developer crafting applications from scratch.
-- Engaged in the study of Computer Engineering.
+## 💼 Embarked on various ventures in the tech world:
+<p>Founded and managed an online tech info site, organizing nationwide events.</p>
+<p>Developed sponsor relationships, leading to organizing entertainment fairs.</p>
+<p>I've actively contributed to a myriad of exciting side projects, showcasing my versatility and commitment to pushing boundaries in the tech world.</p>
 
 
-### 🔭 Technologies:
+## 🌱 Currently Learning
+<p>Pursuing a degree in multiplatform app development.</p>
+<p>Engaged in the study of Computer Engineering.</p>
+<p>Self-taught developer crafting applications from scratch.</p>
+
+## 🚀 Technologies:
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=black)](https://kotlinlang.org/)
 [![Java](https://img.shields.io/badge/Java-FF160B?style=for-the-badge&logo=java&logoColor=white&labelColor=black)](https://www.java.com/)
