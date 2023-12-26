@@ -1,11 +1,6 @@
 # Hi there 👋 I'm Javi!
 
-### 🏠 Hailing from Cantabria, currently based in Barcelona.
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=black)](mailto:jve.formacio@gmail.com)
-[![Github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white&labelColor=black)](https://github.com/Jve386/)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=black)](https://www.linkedin.com/in/javier-d-a2241847/)
-
+## 🏠 Hailing from Cantabria, currently based in Barcelona.
 
 ### 🌱  Embarked on various ventures in the tech world:
 - Founded and managed an online tech info site, organizing nationwide events.
@@ -36,6 +31,11 @@
 [![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white&labelColor=black)](https://www.eclipse.org/)
 [![Intellij IDEA](https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=black)](https://www.jetbrains.com/idea/)
 [![Visual Studio](https://img.shields.io/badge/VS-%235C2D91?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=black)](https://visualstudio.microsoft.com/)
+
+
+### :mailbox: Get in touch!
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=black)](mailto:jve.formacio@gmail.com)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=black)](https://www.linkedin.com/in/javier-d-a2241847/)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jve386&show_icons=true&theme=dark)
