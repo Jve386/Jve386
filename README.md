@@ -31,12 +31,15 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=black)
 ![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white&labelColor=black)
+![Android Compose](https://img.shields.io/badge/jetpackcompose-4285F4?style=for-the-badge&logo=jetpackcompose&labelColor=black)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=black)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white&labelColor=black)
 ![Intellij IDEA](https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=black)
 ![Visual Studio](https://img.shields.io/badge/VS-%235C2D91?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=black)
+
+
 
 ## :mailbox: Get in touch!
 
