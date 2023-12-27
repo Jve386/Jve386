@@ -16,26 +16,21 @@
 
 ## 🚀 Technologies:
 
-### Languages:
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=black)
 ![Java](https://img.shields.io/badge/Java-FF160B?style=for-the-badge&logo=java&logoColor=white&labelColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=black)
 
-### Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)
 ![Microsoft SQL Server](https://img.shields.io/badge/MSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=black)
 
-### Frameworks:
 ![ASP.Net](https://img.shields.io/badge/ASP.Net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=black)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=black)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&labelColor=black)
 
-### Operating Systems:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=black)
 ![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white&labelColor=black)
 
-### Version Control & IDEs:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=black)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white&labelColor=black)
