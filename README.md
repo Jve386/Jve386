@@ -41,10 +41,8 @@
 
 
 
-## :mailbox: Get in touch!
+## Feel free to get in touch for collaborations!
 
-![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=black)
-![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=black)
 
 <p>
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=Jve386&show_icons=true&rank_icon=github&custom_title=Jve386&nbsp;GitHub&nbsp;Stats&theme=transparent" /> 
