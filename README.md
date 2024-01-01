@@ -39,11 +39,10 @@
 ![Intellij IDEA](https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=black)
 ![Visual Studio](https://img.shields.io/badge/VS-%235C2D91?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=black)
 
-
-
 ## Feel free to get in touch for collaborations!
 
 
+## 📊 GitHub Analytics
 <p>
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=Jve386&show_icons=true&rank_icon=github&custom_title=Jve386&nbsp;GitHub&nbsp;Stats&theme=transparent" /> 
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jve386&layout=donut&theme=transparent" />
