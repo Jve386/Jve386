@@ -20,6 +20,8 @@
 ![Java](https://img.shields.io/badge/Java-FF160B?style=for-the-badge&logo=java&logoColor=white&labelColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=black)
+![Rust#](https://img.shields.io/badge/Rust-%23000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=black)
+
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)
 ![Microsoft SQL Server](https://img.shields.io/badge/MSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=black)
