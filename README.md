@@ -4,7 +4,7 @@
 
 ## 💼 Venturing in the Tech World:
 
-- Founded and managed an online tech info site, organizing nationwide events.
+- Founded and managed an online tech info site, organizing nationwide live events.
 - Developed sponsor relationships, leading to organizing entertainment fairs.
 - Passionately contributing to diverse side projects, showcasing versatility and tech innovation.
 
