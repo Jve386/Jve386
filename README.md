@@ -11,7 +11,7 @@
 ## 🌱 Currently Learning:
 
 - Pursuing a degree in multiplatform app development.
-- Engaged in the study of Computer Engineering.
+- Engaged in the study of Software Engineering.
 - Self-taught developer crafting applications from scratch.
 
 ## 🚀 Technologies:
