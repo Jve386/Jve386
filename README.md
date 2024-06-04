@@ -50,9 +50,6 @@
 
 ### 🌐 Open for Collaborations & Job Inquiries
 
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:jve.formacio@gmail.com)
-
-
 
 <!--
 **Jve386/Jve386** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
