@@ -1,56 +1,43 @@
 # Hi there 👋 I'm Javi!
 
-🏠 Hailing from Cantabria, currently based in Barcelona.
+🏠 Originally from Cantabria, now based in Barcelona.
 
-## 💼 Venturing in the Tech World:
+## 💼 Professional Journey in Tech:
 
-- Founded and managed an online tech info site, organizing nationwide live events.
-- Developed sponsor relationships, leading to organizing entertainment fairs.
-- Passionately contributing to diverse side projects, showcasing versatility and tech innovation.
+- **Founder & Manager** of a tech-focused online platform, where I organized **nationwide live tech events** and facilitated **key partnerships** with sponsors to lead successful entertainment fairs.
+- Experience in **building and maintaining relationships** with industry stakeholders, creating valuable networking opportunities, and shaping community-driven projects.
+- Constantly exploring and developing **side projects**, experimenting with emerging technologies to push creative and technical boundaries.
 
-## 🌱 Currently Learning:
+## 🌱 Currently Expanding My Knowledge:
 
-- Pursuing a degree in multiplatform app development.
-- Engaged in the study of Software Engineering.
-- Self-taught developer crafting applications from scratch.
+- Pursuing a **degree in multiplatform app development**.
+- Deepening my knowledge in **Software Engineering**, focusing on scalable and efficient architectures.
+- **Self-taught** developer crafting applications from scratch.
 
-## 🚀 Technologies:
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=black)
-![Java](https://img.shields.io/badge/Java-FF160B?style=for-the-badge&logo=java&logoColor=white&labelColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=black)
-![Rust#](https://img.shields.io/badge/Rust-%23000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=black)
-![Dart#](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=black)
-
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)
-![Microsoft SQL Server](https://img.shields.io/badge/MSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=black)
-
-![ASP.Net](https://img.shields.io/badge/ASP.Net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=black)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=black)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&labelColor=black)
-![JavaFX](https://img.shields.io/badge/JavaFX-%23C01818?style=for-the-badge&logo=%232F2625&labelColor=black)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=black)
-![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white&labelColor=black)
-![Android Compose](https://img.shields.io/badge/jetpackcompose-4285F4?style=for-the-badge&logo=jetpackcompose&labelColor=black)
+## 🚀 Technologies & Tools I Work With:
+- Frontend:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=black)
+![Android Compose](https://img.shields.io/badge/jetpackcompose-4285F4?style=for-the-badge&logo=jetpackcompose&labelColor=black)
+![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=black)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white&labelColor=black)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white&labelColor=black)
-![Intellij IDEA](https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=black)
-![Visual Studio](https://img.shields.io/badge/VS-%235C2D91?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=black)
+- Backend:
+![Node.js](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&labelColor=black)
+![ASP.Net](https://img.shields.io/badge/ASP.Net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=black)
 
+- Databases:
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black)
+
+- DevOps: 
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=black)
 
 ## 📊 GitHub Analytics
 <p>
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=Jve386&show_icons=true&rank_icon=github&custom_title=Jve386&nbsp;GitHub&nbsp;Stats&theme=transparent" /> 
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jve386&layout=donut&theme=transparent" />
 </p>
-
-### 🌐 Open for Collaborations & Job Inquiries
 
 
 <!--
