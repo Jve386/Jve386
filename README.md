@@ -17,7 +17,7 @@
 ## 🚀 Technologies & Tools I Work With:
 - Frontend:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=black)
-![Android Compose](https://img.shields.io/badge/jetpackcompose-4285F4?style=for-the-badge&logo=jetpackcompose&labelColor=black)
+![Quasar](https://img.shields.io/badge/Quasar-050A14?style=for-the-badge&logo=quasar&logoColor=white&labelColor=black)
 ![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=black)
 
 - Backend:
