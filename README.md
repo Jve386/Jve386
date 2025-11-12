@@ -1,56 +1,52 @@
 # Hi there 👋 I'm Javi!
 
-🏠 Originally from Cantabria, now based in Barcelona.
+🏠 Originally from Cantabria, now based in Barcelona, Spain.  
+💻 Software Engineer passionate about building scalable ERP and full-stack solutions that connect business logic with real-world impact.
 
-## 💼 Professional Journey in Tech:
+---
 
-- **Founder & Manager** of a tech-focused online platform, where I organized **nationwide live tech events** and facilitated **key partnerships** with sponsors to lead successful entertainment fairs.
-- Experience in **building and maintaining relationships** with industry stakeholders, creating valuable networking opportunities, and shaping community-driven projects.
-- Constantly exploring and developing **side projects**, experimenting with emerging technologies to push creative and technical boundaries.
+## 💼 Professional Journey
 
-## 🌱 Currently Expanding My Knowledge:
+- **Software Engineer | ERP & Full Stack Development**  
+  - Experience developing and maintaining **Odoo-based ERP systems** with **Python** and **PostgreSQL**, including automation workflows and SaaS-to-SH migrations.  
+  - Previously worked as a **Full Stack Developer**, creating web and mobile applications with **Java**, **Flutter**, **Vue.js**, and **Spring Boot**.  
+  - Strong background in **data management, backend development**, and **process automation**.  
 
-- Pursuing a **degree in multiplatform app development**.
-- Deepening my knowledge in **Software Engineering**, focusing on scalable and efficient architectures.
-- **Self-taught** developer crafting applications from scratch.
+- **Founder & Manager** of a tech-focused online platform, organizing **live tech events** across Spain and building partnerships with industry sponsors.
 
-## 🚀 Technologies & Tools I Work With:
-- Frontend:
+---
+
+## 🌱 Currently Expanding My Knowledge
+- Pursuing a **Bachelor’s Degree in Computer Science**.  
+- Deepening expertise in **software architecture**, **ERP development**, and **business process automation** as part of my daily work.
+
+---
+
+## 🧰 Technologies & Tools
+
+**Frontend**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=black)
 ![Quasar](https://img.shields.io/badge/Quasar-050A14?style=for-the-badge&logo=quasar&logoColor=white&labelColor=black)
-![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=black)
 
-- Backend:
-![Node.js](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&labelColor=black)
-![ASP.Net](https://img.shields.io/badge/ASP.Net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=black)
+**Backend**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=black)
+![Java Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white&labelColor=black)
 
-- Databases:
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black)
 
-- DevOps: 
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=black)
+**DevOps & Cloud**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=black)
+
+---
 
 ## 📊 GitHub Analytics
 <p>
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=Jve386&show_icons=true&rank_icon=github&custom_title=Jve386&nbsp;GitHub&nbsp;Stats&theme=transparent" /> 
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jve386&layout=donut&theme=transparent" />
 </p>
-
-
-<!--
-**Jve386/Jve386** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
