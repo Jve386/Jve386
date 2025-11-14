@@ -12,7 +12,7 @@
   - Previously worked as a **Full Stack Developer**, creating web and mobile applications with **Java**, **Flutter**, **Vue.js**, and **Spring Boot**.  
   - Strong background in **data management, backend development**, and **process automation**.  
 
-- **Founder & Manager** of a tech-focused online platform, organizing **live tech events** across Spain and building partnerships with industry sponsors.
+- Managed a tech-focused online platform, organizing live tech events across Spain and building partnerships with industry sponsors.
 
 ---
 
