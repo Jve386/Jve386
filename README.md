@@ -47,6 +47,10 @@
 
 ## 📊 GitHub Analytics
 <p>
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=Jve386&show_icons=true&rank_icon=github&custom_title=Jve386&nbsp;GitHub&nbsp;Stats&theme=transparent" /> 
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jve386&layout=donut&theme=transparent" />
+<p align="center">
+<a href="https://github.com/devch-tech">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jve386&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jve386&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 </p>
